@@ -1,0 +1,71 @@
+{
+  "title": "Case study: cutting sample loss from 18% to 4%",
+  "eyebrow": "Case study",
+  "intro": "How a small change in handling — and a very boring spreadsheet — halved the number of cores that never reached the lab.",
+  "kicker": "Operations · 6 min read",
+
+  "add_content_to_page": [
+    {
+      "add_special_note": {
+        "colour": "amber",
+        "heading": "The problem",
+        "text": "One core in five arrived unusable: cracked, contaminated or labelled with a code nobody could match to a plot. The loss was invisible in the field and obvious in the lab."
+      }
+    },
+    {
+      "add_table": {
+        "heading": "Before and after",
+        "column_headers": ["Measure", "Before", "After"],
+        "content_of_rows_separated_by_comma": [
+          "Cores unusable on arrival, 18%, 4%",
+          "Relabelling time per batch, 90 min, 10 min",
+          "Plots with a missing replicate, 11 of 36, 2 of 36"
+        ],
+        "align": ["left", "right", "right"]
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "What changed"
+      }
+    },
+    {
+      "add_focus_list": {
+        "heading": "Three interventions",
+        "items_of_the_focus_list": [
+          "A single pre-printed label sheet per plot, generated the night before.",
+          "Cores carried upright in a rigid tray rather than a soft bag.",
+          "A two-minute check at the vehicle before leaving each site."
+        ]
+      }
+    },
+    {
+      "add_paragraph": "None of these required new instruments. The tray cost less than a replacement core; the labels cost a printer cartridge; the check cost two minutes per site."
+    },
+    {
+      "add_quote": {
+        "text": "The cheapest improvement was admitting that the field is where data is lost, not the lab.",
+        "author_of_the_quote": "Project review",
+        "position_of_the_author": "End of season"
+      }
+    },
+    {
+      "add_full_width_links": {
+        "heading": "Read more",
+        "links": [
+          {
+            "label": "The full methods note",
+            "link": "@pages.dataset_release",
+            "note": "Archive"
+          },
+          {
+            "label": "Field kit habits",
+            "link": "@blog_examples.listicle",
+            "note": "List"
+          }
+        ]
+      }
+    }
+  ]
+}

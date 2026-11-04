@@ -1,0 +1,69 @@
+{
+  "title": "Field diary: fourteen days of weather and wiring",
+  "eyebrow": "Diary",
+  "intro": "Short entries from the coastal station, written at the end of each day and edited as little as possible.",
+  "kicker": "Station Nord-03 · Spring",
+  "meta": "Days 1–14",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": {
+        "heading": "Day 1",
+        "text": "Arrived at 16:00. The station is colder inside than out. The generator starts on the fourth attempt. We sleep before unpacking."
+      }
+    },
+    {
+      "add_a_timeline": {
+        "heading": "The fortnight",
+        "items_of_the_timeline": [
+          {
+            "timeline_item_date": "Days 1–3",
+            "timeline_item_title": "Setting up",
+            "timeline_item_text": "Masts raised, cables run, the first calibration abandoned at dusk."
+          },
+          {
+            "timeline_item_date": "Days 4–8",
+            "timeline_item_title": "The calm stretch",
+            "timeline_item_text": "Four clear days. Sampling runs to schedule; the data looks boring, which is the goal."
+          },
+          {
+            "timeline_item_date": "Days 9–11",
+            "timeline_item_title": "Wind",
+            "timeline_item_text": "Gusts to 60 km/h. One mast down, repaired with spares and stubbornness."
+          },
+          {
+            "timeline_item_date": "Days 12–14",
+            "timeline_item_title": "Pack-down",
+            "timeline_item_text": "Two days of packing, one of waiting for the boat."
+          }
+        ]
+      }
+    },
+    {
+      "add_image": {
+        "image_path": "assets/img/ph-04.png",
+        "image_alt": "The station building in flat grey light",
+        "image_caption": "Day 6. The light never quite arrived.",
+        "image_credit": "CLEAR WATER LAB"
+      }
+    },
+    {
+      "add_paragraph": {
+        "heading": "Day 9",
+        "text": "The wind took the upper mast at 03:40. Nobody heard it. We found it in the morning, half in the grass, still logging. The instrument survived; the bracket did not."
+      }
+    },
+    {
+      "add_special_note": {
+        "colour": "dark",
+        "heading": "What the diary is for",
+        "text": "Not for publication, mostly. It is the record of the things that do not fit in a dataset — the reason a sample is missing, the mood of a team, the day the weather changed the plan."
+      }
+    },
+    {
+      "add_tags": {
+        "tags": ["Diary", "Coastal", "Fieldwork"]
+      }
+    }
+  ]
+}

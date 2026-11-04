@@ -1,0 +1,21 @@
+{
+  "team_page": {
+    "subheading": "Team",
+    "heading": "Our Team & Alumni",
+    "intro": "All of these profiles are fictional. They were generated using AI and are not real people. You can replace them with your own team members and alumni.",
+    "back_button_label": "Back to Home",
+    "closing": {
+      "heading": "Want to join the team?",
+      "text": "We're always recruiting curious researchers. Explore open positions for postdocs, students and visitors.",
+      "button": {
+        "label": "Open positions",
+        "link": "@positions",
+        "icon": "arrow_outward"
+      }
+    }
+  },
+  "main_category_file_names": [
+    "current",
+    "alumni"
+  ]
+}

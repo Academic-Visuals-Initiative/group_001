@@ -1,0 +1,14 @@
+{
+  "join_section": {
+    "subheading": "Section 06 subheading",
+    "heading": "This is the Join  Section header",
+    "subline": "Subline text here",
+    "intro": "Introduce bit about your lab, what kind of positions you are hiring for, and how to apply. ",
+    "available_label": "Positions available",
+    "not_hiring_label": "Currently not hiring",
+    "button": {
+      "label": "Add a button label",
+      "link": "@positions"
+    }
+  }
+}

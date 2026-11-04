@@ -1,0 +1,102 @@
+{
+  "labs_page": {
+    "subheading": "subheading",
+    "heading": "Heading",
+    "intro": "Add a small paragraph here about your lab's facilities, stations, and instruments. You can also include a brief history of your lab and its mission.",
+    "divider_label": "divider label",
+    "back_button_label": "Back to Home"
+  },
+  "categories_in_labs": [
+    {
+      "category_name": "Lab",
+      "background_colour": "#e3dfd0"
+    },
+    {
+      "category_name": "Station",
+      "background_colour": "#e7e2d3"
+    },
+    {
+      "category_name": "Instrument",
+      "background_colour": "#dcd6c6"
+    }
+  ],
+  "lab_item_availabilities": [
+    {
+      "lab_item_availability_label": "Available",
+      "background_colour": "#d7ead0"
+    },
+    {
+      "lab_item_availability_label": "Unavailable",
+      "background_colour": "#ffdad6"
+    }
+  ],
+  "lab_items": [
+    {
+      "category": "Lab",
+      "name": "Name of the place or instrument",
+      "images": "coastal_biogeochemistry_lab.jpg",
+      "image_alt": "",
+      "image_caption": "Caption here.",
+      "location": "Add a text line",
+      "intro": "Add a small intro about your lab here.",
+      "since": 2018,
+      "tags": [
+        "Keyword 1",
+        "Keyword 2",
+        "Keyword 3"
+      ]
+    },
+    {
+      "category": "Station",
+      "name": "Name of the place or instrument",
+      "images": [
+        {
+          "image_path": "station_nord_03_coastal_observatory_01.jpg",
+          "image_caption": "caption here."
+        },
+        {
+          "image_path": "station_nord_03_coastal_observatory_02.jpg",
+          "image_caption": "caption here."
+        }
+      ],
+      "image_alt": "",
+      "location": "Add a text line",
+      "intro": "Add a small intro about your lab here.",
+      "since": 2021,
+      "tags": [
+        "Keyword 1",
+        "Keyword 2",
+        "Keyword 3"
+      ]
+    },
+    {
+      "category": "Instrument",
+      "name": "Name of the place or instrument",
+      "images": [
+        {
+          "image_path": "icp_ms_suite.jpg",
+          "image_caption": "Caption here."
+        },
+        {
+          "image_path": "assets/img/ph-09.jpg",
+          "image_caption": "Caption here."
+        }
+      ],
+      "image_alt": "",
+      "location": "Add a text line",
+      "intro": "Add a small intro about your lab here.",
+      "since": 2019,
+      "availability": "Available"
+    },
+    {
+      "category": "Instrument",
+      "name": "Name of the place or instrument",
+      "images": "water_quality_field_kit.jpg",
+      "image_alt": "",
+      "location": "Add a text line",
+      "intro": "Add a small intro about your lab here.",
+      "since": 2022,
+      "availability": "Unavailable"
+    }
+  ]
+}

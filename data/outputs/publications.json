@@ -1,0 +1,189 @@
+{
+  "list_name": "publication",
+  "label": "Publications",
+  "small_tag_label_shown_in_single_items_in_main_list": "Publication",
+  "background_colour": "#e5dfd0",
+  "primary_button_label": "Read Paper",
+  "secondary_button_label": "Publisher",
+  "add_items_to_list": [
+    {
+      "people": [],
+      "venue": "venue",
+      "year": 2026,
+      "status": "status",
+      "title": "Example publication or output without people",
+      "details": "details",
+      "link": "replace the text between double quotes with your link"
+    },
+    {
+      "people": [],
+      "venue": "venue",
+      "status": "status",
+      "title": "Example publication or output without people and year",
+      "details": "details",
+      "link": "replace the text between double quotes with your link",
+      "added_date": ""
+    },
+    {
+      "people": [],
+      "venue": "",
+      "status": "",
+      "title": "Example publication or output without people, year, venue, status, details and link",
+      "details": "",
+      "link": "",
+      "added_date": ""
+    },
+    {
+      "people": [
+        "person 1"
+      ],
+      "venue": "venue",
+      "year": 2026,
+      "status": "status",
+      "title": "Example publication or output with one person",
+      "details": "details",
+      "link": "replace the text between double quotes with your link"
+    },
+    {
+      "people": [
+        "person 1",
+        "persin 2"
+      ],
+      "venue": "venue",
+      "year": 2026,
+      "status": "status",
+      "title": "Example publication or output with more than one person",
+      "details": "To add more people, first add a comma after the last person's double quote which includes their name. Then move to next line and add double quotes. Then add person name within double quotes",
+      "link": "replace the text between double quotes with your link"
+    },
+    {
+      "people": [
+        "person 1",
+        "person 2"
+      ],
+      "venue": "venue",
+      "year": 2026,
+      "status": "status",
+      "is_pinned": true,
+      "is_featured": true,
+      "title": "Example publication or output with pinned to top option",
+      "details": "if pinned:true, this item will stay on the top of the list"
+    },
+    {
+      "people": [
+        "person 1",
+        "person 2"
+      ],
+      "venue": "venue",
+      "year": 2026,
+      "status": "status",
+      "title": "Example publication or output with pdf and pinned to top option ",
+      "details": "Example with external link, and uploded pdf",
+      "link": "replace the text between double quotes with your link",
+      "pdf_file_name_or_path_to_pdf": "replace this text with the pdf name (if they are on dedicated folder - watch the video guide) otherwise add the path to image "
+    },
+    {
+      "people": [
+        "person 1",
+        "person 2"
+      ],
+      "venue": "venue",
+      "year": 2021,
+      "status": "status",
+      "title": "Example with external link, uploded pdf with download option",
+      "details": "Details",
+      "link": "replace the text between double quotes with your link",
+      "pdf_file_name_or_path_to_pdf": "pdf"
+    },
+    {
+      "people": [
+        "person 1",
+        "person 2"
+      ],
+      "venue": "venue",
+      "year": 2022,
+      "status": "status",
+      "title": "Example with external link, uploded pdf without download option",
+      "details": "Details",
+      "show_download": false,
+      "link": "replace the text between double quotes with your link",
+      "pdf_file_name_or_path_to_pdf": "pdf",
+      "added_date": "01.02.2022"
+    },
+    {
+      "people": [
+        "person 1",
+        "person 2"
+      ],
+      "venue": "venue",
+      "year": 2026,
+      "status": "status",
+      "title": "Example with external link, uploded pdf and one featured image",
+      "details": "Image is not broken, it's removed to showcase the importance of alt text",
+      "link": "replace the text between double quotes with your link",
+      "pdf_file_name_or_path_to_pdf": "replace this text with the pdf name (if they are on dedicated folder - watch the video guide) otherwise add the path to pdf ",
+      "image_path": "replace this text with the image name (if they are on dedicated folder - watch the video guide) otherwise add the path to image",
+      "image_alt": "image alt",
+      "image_caption": "caption"
+    },
+    {
+      "people": [
+        "person 1",
+        "person 2"
+      ],
+      "venue": "venue",
+      "year": 2026,
+      "status": "status",
+      "title": "Example with external link, uploded pdf and few featured images",
+      "details": "Images are not broken, they are removed to showcase the importance of alt text",
+      "pdf_file_name_or_path_to_pdf": "pdf",
+      "show_download": true,
+      "link": "https://doi.org/10.1073/pnas.2319984121",
+      "images": [
+        {
+          "image_path": "replace this text with the image name (if they are on dedicated folder - watch the video guide) otherwise add the path to image",
+          "image_caption": "add your image caption",
+          "image_alt": "image alt"
+        },
+        {
+          "image_path": "replace this text with the image name (if they are on dedicated folder - watch the video guide) otherwise add the path to image",
+          "image_caption": "add your image caption",
+          "image_alt": "image alt"
+        },
+        {
+          "image_path": "replace this text with the image name (if they are on dedicated folder - watch the video guide) otherwise add the path to image",
+          "image_caption": "add your image caption",
+          "image_alt": "image alt"
+        }
+      ]
+    },
+    {
+      "people": [
+        "person 1",
+        "person 2"
+      ],
+      "venue": "venue",
+      "year": 2026,
+      "status": "status",
+      "is_pinned": true,
+      "title": "Example with external link, uploded pdf and few featured images",
+      "details": "details",
+      "pdf_file_name_or_path_to_pdf": "pdf",
+      "show_download": true,
+      "link": "https://doi.org/10.1073/pnas.2319984121",
+      "images": [
+        {
+          "image_path": "1.jpg",
+          "image_caption": "photo by ann, pexels",
+          "image_alt": "image alt"
+        },
+        {
+          "src": "2.jpg",
+          "image_caption": "photo by ann, pexels",
+          "image_alt": "image alt"
+        }
+      ],
+      "added_date": "01.03.2026"
+    }
+  ]
+}

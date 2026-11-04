@@ -1,0 +1,129 @@
+{
+  "title": "Environmental Data Analysis",
+  "eyebrow": "Teaching · Graduate course",
+  "intro": "A one-semester course on turning environmental measurements into defensible answers — sampling design, uncertainty, and reproducible analysis.",
+  "kicker": "10 ECTS · Autumn semester",
+  "meta": "Department of Environmental Systems Science",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": "This course is built around one dataset that students carry from week one to the final report. We start with the sampling design, move through exploratory analysis and uncertainty, and finish with a reproducible analysis that another person can run."
+    },
+    {
+      "add_table": {
+        "heading": "At a glance",
+        "column_headers": ["Item", "Detail"],
+        "content_of_rows_separated_by_comma": [
+          "Level, Advanced MSc",
+          "Credits, 10 ECTS",
+          "Language, English",
+          "Assessment, Project report and oral defence",
+          "Prerequisites, Introductory statistics"
+        ],
+        "align": ["left", "left"]
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "Learning outcomes"
+      }
+    },
+    {
+      "add_list": {
+        "heading": "By the end of the course you can",
+        "add_items_to_list": [
+          "Design a sampling campaign that answers a stated question.",
+          "Distinguish measurement error from environmental variation.",
+          "Fit and critique a simple mixed-effects model.",
+          "Produce an analysis another researcher can rerun from the raw files.",
+          "Communicate uncertainty to a non-specialist audience."
+        ]
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "Weekly outline"
+      }
+    },
+    {
+      "add_a_timeline": {
+        "items_of_the_timeline": [
+          {
+            "timeline_item_date": "Week 1",
+            "timeline_item_title": "Questions and designs",
+            "timeline_item_text": "From a research question to a sampling plan; pseudoreplication and its costs."
+          },
+          {
+            "timeline_item_date": "Weeks 2–4",
+            "timeline_item_title": "Data and uncertainty",
+            "timeline_item_text": "Detection limits, calibration, and propagating error through a calculation."
+          },
+          {
+            "timeline_item_date": "Weeks 5–7",
+            "timeline_item_title": "Models",
+            "timeline_item_text": "Fixed and random effects; when a model is more than a line through points."
+          },
+          {
+            "timeline_item_date": "Weeks 8–10",
+            "timeline_item_title": "Reproducible analysis",
+            "timeline_item_text": "Project structure, version control and a report that reruns cleanly."
+          }
+        ]
+      }
+    },
+    {
+      "add_special_note": {
+        "colour": "amber",
+        "heading": "Software",
+        "text": "We teach in **R**, with RStudio. No prior R experience is assumed, but students who have never written code should budget extra time in the first three weeks."
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "Assessment detail"
+      }
+    },
+    {
+      "add_list": {
+        "add_items_to_list": [
+          "**Project report** — 60%: a full analysis of the course dataset, with code.",
+          "**Oral defence** — 25%: 20 minutes, focused on choices and limits.",
+          "**Weekly exercises** — 15%: short, marked for completion."
+        ]
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "Reading list"
+      }
+    },
+    {
+      "add_list": {
+        "add_items_to_list": [
+          "**Core** — textbook chapters 1–6 and two methodological papers.",
+          "**Optional** — one case study from a related field each week."
+        ]
+      }
+    },
+    {
+      "add_quote": {
+        "text": "An analysis you cannot rerun is an opinion with a chart attached.",
+        "author_of_the_quote": "Course handbook",
+        "position_of_the_author": "Department of Environmental Systems Science"
+      }
+    },
+    {
+      "add_button": [
+        {
+          "label": "Ask about the course",
+          "link": "@contact",
+          "style": "fill"
+        }
+      ]
+    }
+  ]
+}

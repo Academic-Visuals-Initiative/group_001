@@ -1,0 +1,76 @@
+{
+  "title": "Blog Example Layouts",
+  "keywords_for_the_page_and_card": "Blog & editorial examples",
+  "intro": "Fifteen editorial layouts for blogging and public writing — essay, photo essay, interview, diary, listicle, case study, tutorial, opinion, event recap, review, data story, announcement, profile, travelogue and digest.",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": {
+        "heading": "How to use them",
+        "text": "Every layout is one JSON file in `data/blog_examples/`. Copy the file, rename it, and edit the words; the layout is already designed. A page opens at `pages/page.html?folder=blog_examples&page=<file name>`, and elsewhere you link to it as `@blog_examples.<file name>`.\n\nAll of them are written with `add_content_to_page`, so repeated headings, lists and quotes stay in the order you write them."
+      }
+    },
+    {
+      "add_table": {
+        "heading": "The fifteen layouts",
+        "column_headers": ["Page", "File", "Best for"],
+        "content_of_rows_separated_by_comma": [
+          ["Long read", "essay_classic", "A slow argument with a lead image and pull quote"],
+          ["Photo essay", "photo_essay", "Pictures first, minimal text"],
+          ["Interview", "interview", "Q&A with portrait and people card"],
+          ["Field diary", "field_diary", "Dated entries and a timeline"],
+          ["Listicle", "listicle", "Numbered list with a single image"],
+          ["Case study", "case_study", "Problem, evidence table, outcome"],
+          ["Tutorial", "tutorial", "Step-by-step checks with an equation"],
+          ["Opinion", "opinion", "An argument opened by a quote"],
+          ["Conference recap", "conference_recap", "Timeline, video and gallery"],
+          ["Book review", "book_review", "Cover image, metadata table, verdict"],
+          ["Data story", "data_story", "Statistics, table, caveat"],
+          ["Announcement", "announcement", "No heading, two callouts, buttons"],
+          ["Profile", "profile_feature", "Portrait, quote and people card"],
+          ["Travelogue", "travelogue", "Slideshow, stops, gallery"],
+          ["Monthly digest", "digest", "Cards linking other posts"]
+        ],
+        "align": ["left", "left", "left"]
+      }
+    },
+    {
+      "add_special_note": {
+        "colour": "info",
+        "heading": "One rule worth knowing",
+        "text": "A JSON object holds each key **once**. For two headings or three lists, write them inside an `add_content_to_page` array — one element per entry. Repeating the same top-level key silently keeps only the last one."
+      }
+    },
+    {
+      "add_full_width_links": {
+        "heading": "Open a layout",
+        "links": [
+          { "label": "Long read: What a river remembers", "link": "@blog_examples.essay_classic", "note": "Essay" },
+          { "label": "Six mornings on the estuary", "link": "@blog_examples.photo_essay", "note": "Photo essay" },
+          { "label": "Interview with the field team", "link": "@blog_examples.interview", "note": "Interview" },
+          { "label": "Field diary: fourteen days", "link": "@blog_examples.field_diary", "note": "Diary" },
+          { "label": "Seven habits of a field kit", "link": "@blog_examples.listicle", "note": "List" },
+          { "label": "Case study: sample loss", "link": "@blog_examples.case_study", "note": "Case study" },
+          { "label": "Reading a calibration curve", "link": "@blog_examples.tutorial", "note": "Tutorial" },
+          { "label": "In defence of boring data", "link": "@blog_examples.opinion", "note": "Opinion" },
+          { "label": "From the conference floor", "link": "@blog_examples.conference_recap", "note": "Recap" },
+          { "label": "Book review: The Catchment as an Archive", "link": "@blog_examples.book_review", "note": "Review" },
+          { "label": "What the numbers can and cannot say", "link": "@blog_examples.data_story", "note": "Data story" },
+          { "label": "Two funded PhD positions", "link": "@blog_examples.announcement", "note": "Announcement" },
+          { "label": "The person behind the calipers", "link": "@blog_examples.profile_feature", "note": "Profile" },
+          { "label": "Three stations, one week", "link": "@blog_examples.travelogue", "note": "Travelogue" },
+          { "label": "The monthly digest", "link": "@blog_examples.digest", "note": "Digest" }
+        ]
+      }
+    },
+    {
+      "add_button": [
+        {
+          "label": "Back to all research areas",
+          "link": "@areas",
+          "style": "outline"
+        }
+      ]
+    }
+  ]
+}

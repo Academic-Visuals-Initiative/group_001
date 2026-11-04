@@ -1,0 +1,42 @@
+{
+  "title": "Seven habits of a field kit that survives the season",
+  "eyebrow": "List",
+  "intro": "Nothing here is expensive. Everything here has saved a sampling campaign at least once.",
+  "choose_page_heading_alignment": "centered",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": "After enough seasons, the kit stops being a list of instruments and becomes a set of habits. These are the seven we keep returning to."
+    },
+    {
+      "add_list": {
+        "style": "number",
+        "add_items_to_list": [
+          "**Label twice.** Once on the container, once on the lid. Labels fail in different ways.",
+          "**Carry a spare for every connector.** Connectors fail more often than sensors.",
+          "**Log the environment.** Temperature, humidity and light explain most mystery drift.",
+          "**Write the time you stopped trusting a series.** Future-you needs the exact moment.",
+          "**Keep a paper notebook.** Batteries end; the notebook does not.",
+          "**Pack for the walk back.** The return trip is when things break.",
+          "**Leave the kit better than you found it.** The next team inherits your habits."
+        ]
+      }
+    },
+    {
+      "add_image": {
+        "image_path": "assets/img/ph-09.jpg",
+        "image_alt": "An open field case with instruments and labelled bags",
+        "image_caption": "A kit packed the night before, which is half the battle.",
+        "image_credit": "CLEAR WATER LAB"
+      }
+    },
+    {
+      "add_paragraph": "The list is not a standard. It is a memory aid, and it changes every year as the equipment does."
+    },
+    {
+      "add_tags": {
+        "tags": ["Fieldwork", "Methods", "Equipment"]
+      }
+    }
+  ]
+}

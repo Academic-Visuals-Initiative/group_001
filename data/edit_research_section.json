@@ -1,0 +1,78 @@
+{
+  "research_section": {
+    "subheading": "Section 02 subheading",
+    "heading": "This is the Research Section header",
+    "intro": "This is a good place to describe your research focus, the types of projects you work on, and the impact of your work. You can link to individual research area pages, or add a few lines about each research area here. Explore below cards to availabel options for adding content to your website section.",
+    "images": [
+      {
+        "image_path": "soil_microbiome_and_carbon_sequestration.jpg",
+        "image_caption": "Caption here",
+        "image_credit": "Credit Here"
+      },
+      {
+        "image_path": "atmospheric_particulate_tracing.jpg",
+        "image_caption": "Caption here",
+        "image_credit": "Credit Here"
+      },
+      {
+        "image_path": "coastal_and_mangrove_restoration.jpg",
+        "image_caption": "Caption here",
+        "image_credit": "Credit Here"
+      },
+      {
+        "image_path": "biodegradable_polymer_synthesis.jpg",
+        "image_caption": "Caption here",
+        "image_credit": ""
+      },
+      {
+        "image_path": "GIF_by_Harvard_Medical_School.gif",
+        "image_caption": "",
+        "image_credit": "Credit Here"
+      }
+    ],
+    "rotation_time_milliseconds": 5000,
+    "// aspect_ratio — any ratio works: aspect-[16/9], aspect-[9/16], aspect-[3/2], aspect-[4/3], aspect-[1/1] (or aspect-square), aspect-[4/5], aspect-[3/4] (default); a bare ratio like 1:1 is also accepted": "",
+    "aspect_ratio": "aspect-[1/1]",
+    "zoom_on": true,
+    "button": {
+      "label": "Add a button label",
+      "link": "@labs"
+    },
+    "max_items": 7,
+    "card_button": {
+      "label": "Explore area"
+    }
+  },
+  "individual_research_area_cards": [
+  {
+      "individual_research_area_file_name": "atmospheric_particulates"
+    },
+    {
+      "individual_research_area_file_name": "adding_items_1"
+    },
+    {
+      "individual_research_area_file_name": "adding_items_2"
+    },
+    {
+      "individual_research_area_file_name": "adding_items_3"
+    },
+    {
+      "individual_research_area_file_name": "academic_and_blogging",
+      "individual_research_area_card_title": "Example Pages: Academic & Blogging",
+      "individual_research_area_card_keyword": "Examples & templates",
+      "individual_research_area_card_introduction": "Four ready-made pages — paper summary, course syllabus, field notes and dataset release — to copy and edit."
+    },
+    {
+      "individual_research_area_file_name": "blog_layouts",
+      "individual_research_area_card_title": "Blog Example Layouts",
+      "individual_research_area_card_keyword": "Blog & editorial examples",
+      "individual_research_area_card_introduction": "Fifteen editorial layouts — essay, photo essay, interview, diary, review and more — to copy and edit."
+    },
+    {
+      "individual_research_area_file_name": "",
+      "individual_research_area_card_title": "This is an example card without link",
+      "individual_research_area_card_keyword": "example 7",
+      "individual_research_area_card_introduction": "If you dont want to link the card to a external page, you can keep the 'individual_research_area_file_name' empty and add it as a single item in edit_research_section.json"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Six Mornings on the Estuary",
+  "eyebrow": "Photo essay",
+  "intro": "No argument, no conclusion — just the light, the tide and the people who count birds before breakfast.",
+  "kicker": "Photographs · 6 frames",
+  "choose_page_heading_alignment": "centered",
+
+  "add_content_to_page": [
+    {
+      "add_image": {
+        "image_path": "assets/img/ph-10.jpg",
+        "image_alt": "Mist over an estuary at dawn",
+        "image_caption": "06:12. The tide is still out; the mud is doing the talking.",
+        "image_credit": "CLEAR WATER LAB"
+      }
+    },
+    {
+      "add_paragraph": "The estuary is a working surface. Every low tide exposes a new version of it — channels shifted, a log arrived, a footprint that was not there yesterday."
+    },
+    {
+      "add_gallery": {
+        "heading": "Frames",
+        "images": [
+          {
+            "image_path": "assets/img/ph-13.jpg",
+            "image_alt": "Sampling gear set up at the waterline",
+            "image_caption": "06:52. The pump is set up before the tide turns."
+          },
+          {
+            "image_path": "assets/img/ph-13.jpg",
+            "image_alt": "Sampling equipment at the waterline",
+            "image_caption": "07:05. The first sample, before the wind picks up."
+          },
+          {
+            "image_path": "assets/img/ph-14.jpg",
+            "image_alt": "Sunrise over the channel",
+            "image_caption": "07:30. The channel catches the light and briefly looks solid."
+          },
+          {
+            "image_path": "assets/img/ph-15.jpg",
+            "image_alt": "Footprints along the shoreline",
+            "image_caption": "08:00. The survey team, arriving late and apologising."
+          }
+        ],
+        "columns": 2
+      }
+    },
+    {
+      "add_paragraph": "Six mornings is not a dataset. It is a habit — the kind that makes a place familiar enough to notice when it changes."
+    },
+    {
+      "add_tags": {
+        "tags": ["Photography", "Estuary", "Fieldwork"]
+      }
+    }
+  ]
+}

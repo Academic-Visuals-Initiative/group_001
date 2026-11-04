@@ -1,0 +1,40 @@
+{
+  "team_section": {
+    "subheading": "Section 03 subheading",
+    "heading_main": "Example Black",
+    "heading_sub": "Small text under the main heading",
+    "heading_golden": "Example golden",
+    "quote": "Add a quote from your lab, lab's PI or director here.",
+    "text": "This is a good place to introduce your team values.",
+    "images": {
+      "photos": [
+        {
+          "image_path": "team3",
+          "image_alt": "add alt text",
+          "image_credit": "Credit here",
+          "image_caption": "Caption here",
+          "extra_text": "Extra text for the image"
+        },
+        {
+          "image_path": "team2",
+          "image_alt": "add alt text",
+          "image_credit": "Credit here",
+          "image_caption": "Caption here"
+        },
+        {
+          "image_path": "team1",
+          "image_alt": "add alt text",
+          "image_credit": "Credit here",
+          "image_caption": "Caption here"
+        }
+      ],
+      "rotation_time_milliseconds": 5000,
+      "// aspect_ratio — any ratio works: aspect-[16/9], aspect-[9/16], aspect-[3/2], aspect-[4/3], aspect-[1/1] (or aspect-square), aspect-[4/5], aspect-[3/4] (default); a bare ratio like 1:1 is also accepted": "",
+      "aspect_ratio": "aspect-[16/9]"
+    },
+    "button": {
+      "label": "Add a button label",
+      "link": "@team"
+    }
+  }
+}

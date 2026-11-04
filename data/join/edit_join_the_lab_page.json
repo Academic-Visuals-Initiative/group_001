@@ -1,0 +1,48 @@
+{
+  "positions_page": {
+    "subheading": "Subheading",
+    "divider_label": "DIVIDER LABEL",
+    "heading": "Heading",
+    "intro": "Add a small paragraph here about your lab, what kind of positions you are hiring for, and how to apply. You can also include a brief history of your lab and its mission.",
+    "back_button_label": "Back to Home",
+    "button_label": "Button label",
+    "categories": [
+      {
+        "label": "Postdoc",
+        "background_colour": "#e7e2d3"
+      },
+      {
+        "label": "PhD",
+        "background_colour": "#e5dfd0"
+      },
+      {
+        "label": "Masters",
+        "background_colour": "#e7e2d3"
+      },
+      {
+        "label": "Undergraduate",
+        "background_colour": "#e5dfd0"
+      },
+      {
+        "label": "Visiting",
+        "background_colour": "#e7e2d3"
+      }
+    ],
+    "file_names": [
+      "postdoctoral_fellow",
+      "phd_student",
+      "masters_student",
+      "undergraduate_student",
+      "visiting_researcher",
+      "visiting_student"
+    ],
+    "note": {
+      "heading": "Add a heading here",
+      "text": "Add a small note here. You can add a few lines about your lab's hiring process, or any other information you want to share with potential applicants.",
+      "button": {
+        "label": "Contact us",
+        "link": "@contact"
+      }
+    }
+  }
+}

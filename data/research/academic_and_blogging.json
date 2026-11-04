@@ -1,0 +1,106 @@
+{
+  "title": "Example Pages: Academic & Blogging",
+  "keywords_for_the_page_and_card": "Examples & templates",
+  "intro": "Four ready-made pages you can copy for your own work — a paper summary, a course syllabus, a field-notes blog post and a dataset landing page. Each one is plain JSON in data/pages/.",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": {
+        "heading": "How to use them",
+        "text": "Every example is a single file in `data/pages/`. Copy the file, rename it, and edit the words — the layout is already designed. The page opens at `pages/page.html?page=<file name>`, and anywhere else you link to it by name: `@pages.<file name>`.\n\nNothing here is hard-coded: headings, lists, tables, quotes, notes, links and buttons are all elements, and the order in the file is the order on the page."
+      }
+    },
+    {
+      "add_cards": {
+        "heading": "The four examples",
+        "intro": "Pick the shape closest to what you need, then replace the sample words.",
+        "columns": 2,
+        "individual_card_details": [
+          {
+            "individual_card_keyword": "Academic",
+            "heading": "Paper summary",
+            "text": "Explain one paper to a general reader: the question, key findings, a table of the design, a quote, the model, and links to the paper and data.",
+            "link": "@pages.paper_summary"
+          },
+          {
+            "individual_card_keyword": "Teaching",
+            "heading": "Course syllabus",
+            "text": "A course at a glance: credits and assessment, learning outcomes, a week-by-week timeline, reading list and an enquiry button.",
+            "link": "@pages.course_syllabus"
+          },
+          {
+            "individual_card_keyword": "Blog",
+            "heading": "Field notes",
+            "text": "A diary post with a lead image, a photo gallery, a pull quote and tags — written to be read, not skimmed.",
+            "link": "@blog_examples.blog_field_notes"
+          },
+          {
+            "individual_card_keyword": "Data",
+            "heading": "Dataset release",
+            "text": "A landing page for an archive: what is inside, the file table, the citation, limitations and a download link.",
+            "link": "@pages.dataset_release"
+          }
+        ]
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "What each page demonstrates"
+      }
+    },
+    {
+      "add_list": {
+        "add_items_to_list": [
+          "**Paper summary** — centred opener, tags, key-findings list, table, quote, equation, callout, link rows, two buttons.",
+          "**Course syllabus** — at-a-glance table, list, timeline, callout, two more lists, quote and button.",
+          "**Blog field notes** — centred opener, lead image, gallery, pull quote, dark callout, tags and button.",
+          "**Dataset release** — tags, file table, citation callout, methods and limitations lists, download links."
+        ]
+      }
+    },
+    {
+      "add_special_note": {
+        "colour": "info",
+        "heading": "One rule worth knowing",
+        "text": "A JSON object can hold each key **once**. If a page needs two headings or three lists, write them in an `add_content_to_page` array — one element per entry — as these examples do. Repeating the same top-level key silently keeps only the last one."
+      }
+    },
+    {
+      "add_full_width_links": {
+        "heading": "Open an example",
+        "links": [
+          {
+            "label": "Paper summary",
+            "link": "@pages.paper_summary",
+            "note": "Academic"
+          },
+          {
+            "label": "Course syllabus",
+            "link": "@pages.course_syllabus",
+            "note": "Teaching"
+          },
+          {
+            "label": "Field notes",
+            "link": "@pages.blog_field_notes",
+            "note": "Blog"
+          },
+          {
+            "label": "Dataset release",
+            "link": "@pages.dataset_release",
+            "note": "Data"
+          }
+        ]
+      }
+    },
+    {
+      "add_button": [
+        {
+          "label": "Back to all research areas",
+          "link": "@areas",
+          "style": "outline"
+        }
+      ]
+    }
+  ]
+}

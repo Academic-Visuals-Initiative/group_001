@@ -1,0 +1,18 @@
+{
+  "title": "Undergraduate Student",
+  "add_relevant_category_name": "Undergraduate",
+  "duration": "Summer / term project",
+  "summary": "Add a short summary of the position here. You can include information about the research project, the skills and experience required, and any other relevant details.",
+  "add_content_to_page": [
+    {
+      "add_paragraph": [
+        "Summer research placements and final-year thesis supervision. Students gain hands-on experience with analytical instruments, sampling campaigns and open-source data pipelines."
+      ]
+    }
+  ],
+  "add_tags": [
+    "Keyword 1",
+    "Keyword 2",
+    "Keyword 3"
+  ]
+}

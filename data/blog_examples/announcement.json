@@ -1,0 +1,59 @@
+{
+  "title": "Two funded PhD positions in catchment biogeochemistry",
+  "eyebrow": "Announcement",
+  "show_the_page_heading": false,
+
+  "add_content_to_page": [
+    {
+      "add_special_note": {
+        "colour": "green",
+        "heading": "Applications open",
+        "text": "Two fully funded PhD positions (four years) on catchment carbon and nutrient dynamics. Start date flexible; applications close 15 January."
+      }
+    },
+    {
+      "add_paragraph": {
+        "heading": "The projects",
+        "text": "One position focuses on dissolved organic matter export from forested catchments; the other on sediment-bound phosphorus in agricultural streams. Both combine field campaigns with laboratory analysis and a substantial modelling component."
+      }
+    },
+    {
+      "add_list": {
+        "heading": "What we look for",
+        "add_items_to_list": [
+          "A master's degree in environmental science, chemistry, geography or a related field.",
+          "Evidence of independent fieldwork or laboratory work.",
+          "Comfort with quantitative analysis; willingness to learn the rest.",
+          "Good written English and a habit of keeping notes."
+        ]
+      }
+    },
+    {
+      "add_paragraph": {
+        "heading": "How to apply",
+        "text": "Send a single PDF containing a two-page CV, a one-page statement of interest and the names of two referees. There is no application form. Shortlisted candidates are interviewed online within three weeks."
+      }
+    },
+    {
+      "add_button": [
+        {
+          "label": "Write to the lab",
+          "link": "@contact",
+          "style": "fill"
+        },
+        {
+          "label": "All open positions",
+          "link": "@positions",
+          "style": "outline"
+        }
+      ]
+    },
+    {
+      "add_special_note": {
+        "colour": "dark",
+        "heading": "Equal opportunity",
+        "text": "We particularly welcome applications from candidates who are underrepresented in the environmental sciences. Part-time arrangements are possible for both posts."
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "The Long Read: What a River Remembers",
+  "eyebrow": "Essay",
+  "intro": "A slow argument about sediment, memory and the stories a catchment keeps long after the flood has gone.",
+  "kicker": "12 min read",
+  "choose_page_heading_alignment": "centered",
+
+  "add_content_to_page": [
+    {
+      "add_image": {
+        "image_path": "assets/img/ph-01.jpg",
+        "image_alt": "A river running through a wooded valley",
+        "image_caption": "The upper catchment, three days after the flood peak.",
+        "image_credit": "CLEAR WATER LAB"
+      }
+    },
+    {
+      "add_paragraph": "Rivers are often described as corridors, which is a way of saying they carry things from one place to another. Sediment, nutrients, plastic, heat. The metaphor is useful and slightly wrong: a river also keeps things. It slows them, sorts them, and lets them settle into layers that outlast the event that moved them."
+    },
+    {
+      "add_paragraph": "That capacity to hold is what makes a catchment readable. A core taken from a floodplain is not a record of one flood but of many, each written in a different grain size, each interrupted by the next. The archive is not tidy. It is, however, honest."
+    },
+    {
+      "add_quote": {
+        "text": "A flood is an event. A floodplain is a memory of events, edited by every one that follows.",
+        "author_of_the_quote": "Field notebook",
+        "position_of_the_author": "Upper catchment, March"
+      }
+    },
+    {
+      "add_paragraph": "We spend a lot of time measuring what leaves a catchment — the export of carbon, the pulse of nitrate after rain. Less time is spent on what stays. Yet the staying is what makes the landscape legible: the shape of a bank, the depth of a soil, the age of a seed bank waiting under a pasture."
+    },
+    {
+      "add_paragraph": "The practical consequence is unglamorous. If you want to know what a river will do next, the most useful instrument may not be a gauge but a spade. The past is not a prediction, but it is a constraint, and constraints are what models are made of."
+    },
+    {
+      "add_special_note": {
+        "colour": "info",
+        "heading": "A note on method",
+        "text": "This essay draws on four years of floodplain cores and a reading of the catchment's land-use record. Neither is a substitute for the other."
+      }
+    },
+    {
+      "add_tags": {
+        "tags": ["Rivers", "Sediment", "Essay", "Fieldwork"]
+      }
+    },
+    {
+      "add_full_width_links": {
+        "heading": "Related",
+        "links": [
+          {
+            "label": "The dataset behind this essay",
+            "link": "@pages.dataset_release",
+            "note": "Data"
+          },
+          {
+            "label": "A paper summary on soil carbon",
+            "link": "@pages.paper_summary",
+            "note": "Research"
+          }
+        ]
+      }
+    }
+  ]
+}

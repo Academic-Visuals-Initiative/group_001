@@ -1,0 +1,9 @@
+{
+  "list_name": "example list",
+  "label": "example category",
+  "small_tag_label_shown_in_single_items_in_main_list": "small tag",
+  "background_colour": "#e7e2d3",
+  "primary_button_label": "view PDF",
+  "secondary_button_label": "External link",
+  "add_items_to_list": []
+}

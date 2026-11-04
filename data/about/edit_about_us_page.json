@@ -1,0 +1,198 @@
+{
+  "about_page": {
+    "label": "About the Lab",
+    "title": "About",
+    "sections": {
+      "who_we_are": {
+        "number": "01",
+        "eyebrow": "Subheading",
+        "statement": "Heading statement about the lab",
+        "image": {
+          "image_path": "about_us_section_01.jpg",
+          "image_alt": "",
+          "image_caption": "Caption here",
+          "image_credit": "Credit here"
+        },
+        "paragraphs": [
+          "This is the who we are section first paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ligula odio, elementum nec purus sollicitudin, molestie congue lectus. Sed vitae bibendum tortor, id ultrices dui. Duis sit amet ligula in arcu lacinia egestas id sit amet leo.",
+          "This is the who we are section second paragraph. To add a new paragraph, simply add a comma after the double quotation marks in the end of this line, move to next line add double quotation marks, and add text inside those quotation marks. To remove this paragraph, simply delete this line and the comma at the end of the previous paragraph (comma after after the double quotation marks in line above deleted line)."
+        ],
+        "button": {
+          "label": "Add a button label",
+          "link": "@home",
+          "icon": "arrow_outward"
+        }
+      },
+      "principal_investigator": {
+        "number": "02",
+        "title": "Subheading for Principal Investigator section",
+        "message": "This is the principal investigator section message. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ligula odio, elementum nec purus sollicitudin, molestie congue lectus. Sed vitae bibendum tortor, id ultrices dui. Duis sit amet ligula in arcu lacinia egestas id sit amet leo.",
+        "note": "Add a note about the principal investigator here. ",
+        "name": "Add Principal Investigator Name",
+        "subtitle": "Add Principal Investigator Subtitle",
+        "photo": "assets/images/team_and_alumni/michael_carter.jpg",
+        "photo_caption": "caption here",
+        "photo_credit": "credit here",
+        "buttons": [
+          {
+            "label": "View CV",
+            "link": "assets/pdfs/cv-michael-carter.pdf"
+          },
+          {
+            "label": "email",
+            "link": "michael.carter@bioterra-lab.org"
+          },
+          {
+            "label": "Meet the team",
+            "link": "@team",
+            "icon": "arrow_outward"
+          }
+        ]
+      },
+      "what_we_do": {
+        "number": "03",
+        "title": "subheading",
+        "introduction": "Add a small introduction to the what we do section here. This is a good place to describe about your lab, location, values, etc .. You can also include a brief history of your lab and its mission. Also add or remove any of the images",
+        "paragraphs": [
+          "Add a small paragraph or two about what your lab does here. This is a good place to describe about your lab, location, values, etc .. You can also include a brief history of your lab and its mission. Also add or remove any of the images"
+        ],
+        "images": [
+          {
+            "image_path": "atmosphere.jpg",
+            "image_alt": "",
+            "image_caption": "Caption here",
+            "image_credit": "Credit here"
+          },
+          {
+            "image_path": "mangrove.jpg",
+            "image_alt": "",
+            "image_caption": "Caption here",
+            "image_credit": "Credit here"
+          },
+          {
+            "image_path": "soil.jpg",
+            "image_alt": "",
+            "image_caption": "Caption here",
+            "image_credit": "Credit here"
+          },
+          {
+            "image_path": "polymers.jpg",
+            "image_alt": "",
+            "image_caption": "Caption here",
+            "image_credit": "Credit here"
+          }
+        ],
+        "columns": "2",
+        "// titles — when true, the research-area titles from the research section appear here automatically, each linking to its area page": "",
+        "titles": true
+      },
+      "quote": {
+        "number": "04",
+        "title": "subheading",
+        "text": "Add a quote or message from your lab",
+        "author": "Author Name",
+        "role": "Role or title of the author"
+      },
+      "our_approach": {
+        "number": "05",
+        "title": "subheading",
+        "heading": "Heading",
+        "text": [
+          "This is paragraph 1 of the our approach section. Add a small paragraph or two about your lab's approach to research, collaboration, and impact. This is a good place to describe about your lab, location, values, etc .. You can also include a brief history of your lab and its mission.",
+          "This is paragraph 2 of the our approach section. Add a small paragraph or two about your lab's approach to research, collaboration, and impact. This is a good place to describe about your lab, location, values, etc .. You can also include a brief history of your lab and its mission."
+        ],
+        "chips": [
+          "keyword 1",
+          "Keyword 2",
+          "Keyword 3",
+          "Keyword 4"
+        ]
+      },
+      "impact": {
+        "section": {
+          "number": "06",
+          "title": "subheading",
+          "items": [
+            {
+              "metric_value": "000 ",
+              "metric_label": "text here"
+            },
+            {
+              "metric_value": "000",
+              "metric_label": "text here"
+            },
+            {
+              "metric_value": "000",
+              "metric_label": "text here"
+            },
+            {
+              "metric_value": "000",
+              "metric_label": "text here"
+            }
+          ]
+        },
+        "photo": {
+          "image_path": "impact.jpg",
+          "image_alt": "",
+          "caption": "caption here",
+          "credit": "credit here"
+        }
+      },
+      "lab_in_action": {
+        "number": "07",
+        "title": "Subheading",
+        "paragraph": "Add a small introduction to the lab in action section here. ",
+        "paragraphs": [
+          "This is paragraph 1 of the lab in action section. Add a small paragraph or two about your lab's activities and initiatives. This is a good place to showcase your lab's work and achievements."
+        ],
+        "rotation_time_milliseconds": 5000,
+        "images": [
+          {
+            "image_path": "action_1.jpg",
+            "image_alt": "",
+            "image_caption": "caption here",
+            "image_credit": "credit here"
+          },
+          {
+            "image_path": "action_2.jpg",
+            "image_alt": "",
+            "image_caption": "caption here",
+            "image_credit": "credit here"
+          },
+          {
+            "image_path": "action_3.jpg",
+            "image_alt": "",
+            "image_caption": "caption here",
+            "image_credit": "credit here"
+          },
+          {
+            "image_path": "action_4.jpg",
+            "image_alt": "",
+            "image_caption": "caption here",
+            "image_credit": "credit here"
+          },
+          {
+            "image_path": "action_5.jpg",
+            "image_alt": "",
+            "image_caption": "caption here",
+            "image_credit": "credit here"
+          }
+        ],
+        "button": {
+          "label": "Add a button label",
+          "link": "@positions",
+          "icon": "arrow_outward"
+        }
+      },
+      "closing": {
+        "heading": "Haven’t found what you were looking for?",
+        "text": "Add a small paragraph as closing statement here.",
+        "button": {
+          "label": "Add a button label",
+          "link": "@contact",
+          "icon": "arrow_outward"
+        }
+      }
+    }
+  }
+}

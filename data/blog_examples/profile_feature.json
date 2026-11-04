@@ -1,0 +1,51 @@
+{
+  "title": "The person behind the calipers: a lab profile",
+  "eyebrow": "Profile",
+  "intro": "A short portrait of the technician who keeps the reference instruments honest and the fridge stocked.",
+  "kicker": "People · 4 min read",
+
+  "add_content_to_page": [
+    {
+      "add_image": {
+        "image_path": "assets/img/ph-07.jpg",
+        "image_alt": "A researcher at the bench with instruments",
+        "align": "right",
+        "image_caption": "At the reference bench, where the instruments are checked.",
+        "content_to_show_on_side_of_the_image_when_aligned": "Most of the lab's measurements pass through this bench in one direction or another. It is where a sensor becomes trustworthy enough to take into the field, and where it is checked again when it comes back."
+      }
+    },
+    {
+      "add_paragraph": "The work is not dramatic. It is a sequence of small refusals: refusing to accept a calibration because it looked fine, refusing to skip the blank, refusing to let a series enter the archive with a missing temperature log."
+    },
+    {
+      "add_quote": {
+        "text": "My job is to be the least interesting part of a result. If nobody notices my work in the paper, it went well.",
+        "author_of_the_quote": "Reference bench",
+        "position_of_the_author": "Station Nord-03"
+      }
+    },
+    {
+      "add_people": {
+        "heading": "In the lab",
+        "people": [
+          {
+            "name": "Jasmine Brooks",
+            "position": "Research Lead"
+          },
+          {
+            "name": "Carlos Mendoza",
+            "position": "Field Systems Engineer"
+          }
+        ]
+      }
+    },
+    {
+      "add_paragraph": "The bench has one rule that is written nowhere: anything that breaks gets a note before it gets a replacement. The notes, over time, are more useful than the equipment list."
+    },
+    {
+      "add_tags": {
+        "tags": ["People", "Instruments", "Profile"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "add_title_to_show_in_search_engines": "YOUR LAB NAME",
+  "favicon_path": "logo-mark.svg",
+  "add_a_small_introduction_to_show_in_search_engines": "CLEAR WATER LAB - an environmental chemistry research group at TerraNova Institute. We investigate the chemical processes that shape water, soil, air, and aquatic environments.",
+  "metadata": {
+    "keywords": "environmental chemistry, water quality, soil science, remediation, sensor networks, field stations",
+    "author": "CLEAR WATER LAB",
+    "og_type": "website"
+  },
+  "navigation_bar_logo_name_and_subtitle": {
+    "add_your_group_name": "Add your group name",
+    "subtitle": "Add your group subtitle",
+    "image_path": "logo-mark.svg"
+  },
+  "navigation_bar_items": [
+    {
+      "navigation_bar_about_label": "About",
+      "is_enabled": true
+    },
+    {
+      "navigation_bar_research_areas_label": "Research Areas",
+      "is_enabled": true
+    },
+    {
+      "navigation_bar_team_label": "Team",
+      "is_enabled": true
+    },
+    {
+      "navigation_bar_publications_label": "Publications",
+      "is_enabled": true
+    },
+    {
+      "navigation_bar_news_label": "News",
+      "is_enabled": true
+    },
+    {
+      "navigation_bar_join_label": "Join",
+      "is_enabled": true
+    },
+    {
+      "navigation_bar_contact_label": "Contact",
+      "is_enabled": true
+    },
+    {
+      "navigation_bar_facilities_label": "Facilities",
+      "page": "facilities",
+      "is_enabled": false
+    }
+  ],
+  "show_home_page_sections": {
+    "home_page_about_section": {
+      "is_enabled": true
+    },
+    "home_page_research_section": {
+      "is_enabled": true
+    },
+    "home_page_team_section": {
+      "is_enabled": true
+    },
+    "home_page_join_section": {
+      "is_enabled": true
+    },
+    "home_page_featured_section": {
+      "is_enabled": true
+    },
+    "home_page_contact_section": {
+      "is_enabled": true
+    },
+    "home_page_news_and_updates_section": {
+      "is_enabled": true
+    }
+  },
+  "edit_footer": {
+    "footer_logo": "logo.svg",
+    "logo_alt": "",
+    "logo_text_line_1": "Add Your School",
+    "logo_text_line_2": "Add your department",
+    "logo_text_line_3": "add your University",
+    "footer_right_side_line_1": "© **Your Lab Name** 0026. All rights reserved.",
+    "footer_right_side_line_2": "Last updated Oct 0026",
+    "footer_right_side_line_3": "Credit"
+  },
+  "footer_social_icons": [
+    {
+      "icon": "googlescholar_old",
+      "link": "#"
+    },
+    {
+      "icon": "university",
+      "link": "#"
+    },
+    {
+      "icon": "assets/icons/system_icons/link.svg",
+      "link": "#"
+    },
+    {
+      "icon": "",
+      "link": "mailto:hello@bioterra-lab.org"
+    }
+  ]
+}

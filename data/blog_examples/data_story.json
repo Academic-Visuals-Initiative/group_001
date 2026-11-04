@@ -1,0 +1,77 @@
+{
+  "title": "What the numbers can and cannot say about soil carbon",
+  "eyebrow": "Data story",
+  "intro": "A guided tour of one dataset: what is measured, what is modelled, and where the uncertainty actually lives.",
+  "kicker": "Analysis · 6 min read",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": "The dataset behind this story covers 36 plots, two depths and four annual campaigns. Before any conclusion, it is worth separating three different things the numbers can mean: a measurement, an estimate and a projection."
+    },
+    {
+      "add_focus_list": {
+        "heading": "The headline figures",
+        "items_of_the_focus_list": [
+          "864 labelled-core measurements.",
+          "36 plots across two latitudes.",
+          "4 annual campaigns, spring only.",
+          "Reported uncertainty: standard deviation across cores."
+        ]
+      }
+    },
+    {
+      "add_table": {
+        "heading": "What is in the archive",
+        "column_headers": ["File", "Rows", "Type"],
+        "content_of_rows_separated_by_comma": [
+          "cores.csv, 864, Measurement",
+          "plots.csv, 36, Metadata",
+          "fungal_scores.csv, 36, Observer score",
+          "calibration.csv, 112, Instrument check"
+        ],
+        "align": ["left", "right", "left"]
+      }
+    },
+    {
+      "add_image": {
+        "image_path": "assets/img/ph-13.jpg",
+        "image_alt": "A chart-like arrangement of soil samples",
+        "image_caption": "Cores arranged by depth before analysis.",
+        "image_credit": "CLEAR WATER LAB"
+      }
+    },
+    {
+      "add_paragraph": "The measurement is the mass of carbon in a known volume of soil. The estimate is the plot mean, with its spread. The projection — how much carbon a catchment might hold under a different management — is a model, and models inherit every assumption in the sampling design."
+    },
+    {
+      "add_equation": {
+        "heading": "From core to stock",
+        "formatted_equation": "C_stock = Σ (C_i · BD_i · d_i)"
+      }
+    },
+    {
+      "add_special_note": {
+        "colour": "amber",
+        "heading": "The part not in the data",
+        "text": "Winter stocks were not sampled. Any annual figure therefore describes the spring condition, not the year. The archive says so in the README, and so should every chart drawn from it."
+      }
+    },
+    {
+      "add_full_width_links": {
+        "heading": "Go deeper",
+        "links": [
+          {
+            "label": "Download the dataset",
+            "link": "@pages.dataset_release",
+            "note": "Data"
+          },
+          {
+            "label": "The paper summary",
+            "link": "@pages.paper_summary",
+            "note": "Research"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "title": "The monthly digest: what we published, read and broke",
+  "eyebrow": "Digest",
+  "intro": "Everything from the last four weeks in one place — new writing, new data, and the instruments that did not survive.",
+  "kicker": "Roundup · October",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": "A short roundup for people who would rather read one page than five. Links go to the full pieces; nothing here is a summary of a summary."
+    },
+    {
+      "add_cards": {
+        "heading": "Published this month",
+        "intro": "Three pieces worth your time.",
+        "columns": 3,
+        "individual_card_details": [
+          {
+            "individual_card_keyword": "Essay",
+            "heading": "What a river remembers",
+            "text": "Sediment, memory and the stories a catchment keeps.",
+            "link": "@blog_examples.essay_classic"
+          },
+          {
+            "individual_card_keyword": "Photo essay",
+            "heading": "Six mornings on the estuary",
+            "text": "Light, tide and the people who count birds before breakfast.",
+            "link": "@blog_examples.photo_essay"
+          },
+          {
+            "individual_card_keyword": "Tutorial",
+            "heading": "Reading a calibration curve",
+            "text": "Four checks that catch most calibration mistakes.",
+            "link": "@blog_examples.tutorial"
+          }
+        ]
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "Also new"
+      }
+    },
+    {
+      "add_full_width_links": {
+        "heading": "From the archive",
+        "links": [
+          {
+            "label": "The boreal soil carbon dataset",
+            "link": "@pages.dataset_release",
+            "note": "Version 1.2"
+          },
+          {
+            "label": "Case study: sample loss, 18% → 4%",
+            "link": "@blog_examples.case_study",
+            "note": "Operations"
+          },
+          {
+            "label": "Book review: The Catchment as an Archive",
+            "link": "@blog_examples.book_review",
+            "note": "Books"
+          }
+        ]
+      }
+    },
+    {
+      "add_list": {
+        "heading": "One thing we broke",
+        "add_items_to_list": [
+          "The upper mast bracket, in 60 km/h gusts.",
+          "One connector, twice.",
+          "The office kettle. Cause unknown."
+        ]
+      }
+    },
+    {
+      "add_special_note": {
+        "colour": "amber",
+        "heading": "Next month",
+        "text": "A field diary from the winter campaign and the first results from the new deposition sampler. Subscribe by asking us to add you to the list."
+      }
+    },
+    {
+      "add_button": [
+        {
+          "label": "Read all posts",
+          "link": "@blog_examples.essay_classic",
+          "style": "outline"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "title": "From the conference floor: four talks worth your time",
+  "eyebrow": "Conference recap",
+  "intro": "Notes from three days of sessions, coffee queues and one genuinely surprising poster.",
+  "kicker": "Meeting report · 7 min read",
+  "meta": "Autumn meeting · Session 4",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": "The theme this year was measurement under uncertainty, which produced an unusually practical programme: fewer grand frameworks, more people showing the exact place their method breaks."
+    },
+    {
+      "add_a_timeline": {
+        "heading": "The three days",
+        "items_of_the_timeline": [
+          {
+            "timeline_item_date": "Day 1",
+            "timeline_item_title": "Calibration and drift",
+            "timeline_item_text": "A full session on the unglamorous work of keeping instruments comparable."
+          },
+          {
+            "timeline_item_date": "Day 2",
+            "timeline_item_title": "Open archives",
+            "timeline_item_text": "Two talks on publishing raw series; one on the cost of reorganising them."
+          },
+          {
+            "timeline_item_date": "Day 3",
+            "timeline_item_title": "Field methods",
+            "timeline_item_text": "The best poster of the meeting: a tray that halved core breakage."
+          }
+        ]
+      }
+    },
+    {
+      "add_embed_media": {
+        "link": "https://www.youtube.com/watch?v=example",
+        "heading": "Watch the opening session",
+        "caption": "Recording of the first morning, including the calibration panel."
+      }
+    },
+    {
+      "add_gallery": {
+        "heading": "From the floor",
+        "images": [
+          {
+            "image_path": "assets/img/ph-08.jpg",
+            "image_alt": "A conference hall during a session",
+            "image_caption": "Session 4, before the room filled."
+          },
+          {
+            "image_path": "assets/img/ph-01.jpg",
+            "image_alt": "A poster being discussed",
+            "image_caption": "The poster that started three arguments and one collaboration."
+          }
+        ],
+        "columns": 2
+      }
+    },
+    {
+      "add_full_width_links": {
+        "heading": "Follow up",
+        "links": [
+          {
+            "label": "The dataset behind the poster",
+            "link": "@pages.dataset_release",
+            "note": "Data"
+          },
+          {
+            "label": "A field kit checklist",
+            "link": "@blog_examples.listicle",
+            "note": "List"
+          }
+        ]
+      }
+    },
+    {
+      "add_tags": {
+        "tags": ["Conference", "Community", "Methods"]
+      }
+    }
+  ]
+}

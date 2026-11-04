@@ -1,0 +1,60 @@
+{
+  "title": "In defence of boring data",
+  "eyebrow": "Opinion",
+  "intro": "The most useful datasets in environmental science are rarely the exciting ones. They are the ones that stayed comparable for long enough to disagree with us.",
+  "kicker": "Comment · 5 min read",
+
+  "add_content_to_page": [
+    {
+      "add_quote": {
+        "text": "A dataset that never surprises you is either very good or very carefully arranged.",
+        "author_of_the_quote": "Editorial",
+        "position_of_the_author": "CLEAR WATER LAB"
+      }
+    },
+    {
+      "add_paragraph": "There is a quiet bias in how we reward measurement. A novel sensor, a dramatic campaign, a first-of-its-kind transect — these are easy to fund and easy to publish. The series that simply continued, unchanged, for another five years is harder to celebrate and more valuable."
+    },
+    {
+      "add_paragraph": "Continuity is what turns a measurement into evidence. A single season tells you what happened; ten comparable seasons tell you what is normal, and therefore what is not. Most of the questions we care about — is this trend real, did the management change work, is the site recovering — are questions about deviation from a baseline that must first exist."
+    },
+    {
+      "add_paragraph": "The incentive problem is not new, but it has a practical cost: instruments are replaced before their series can mature, methods are updated without an overlap period, and archives are reorganised in ways that break the chain. Each decision is locally reasonable and collectively expensive."
+    },
+    {
+      "add_focus_list": {
+        "heading": "Three things that protect continuity",
+        "items_of_the_focus_list": [
+          "Overlap old and new instruments for at least one full cycle.",
+          "Publish the raw series, not only the derived product.",
+          "Write down why a method changed, in the same file as the data."
+        ]
+      }
+    },
+    {
+      "add_paragraph": "None of this is glamorous. All of it is what makes the next exciting result possible."
+    },
+    {
+      "add_full_width_links": {
+        "heading": "Continue reading",
+        "links": [
+          {
+            "label": "What a river remembers",
+            "link": "@blog_examples.essay_classic",
+            "note": "Essay"
+          },
+          {
+            "label": "The dataset release",
+            "link": "@pages.dataset_release",
+            "note": "Data"
+          }
+        ]
+      }
+    },
+    {
+      "add_tags": {
+        "tags": ["Opinion", "Open data", "Methods"]
+      }
+    }
+  ]
+}

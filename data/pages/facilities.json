@@ -1,0 +1,44 @@
+{
+  "title": "Facilities & Field Sites",
+  "eyebrow": "About the lab",
+  "intro": "Two analytical suites, a calibration bench and three field stations — the places our measurements are made.",
+  "kicker": "TerraNova Institute · Nord-03",
+  "add_paragraph": "Most of what the lab knows begins somewhere cold, wet or dusty, and ends on a bench in TerraNova. The rooms and the stations are not scenery: the way a sample is handled in the first hour decides what it can still tell us a year later.\n\nWe keep the bench close to the field teams. Instruments are calibrated here, deployed from here, and opened here again when they come back — often on the same day.",
+  "add_image": {
+    "image_path": "ph-04.png",
+    "image_alt": "",
+    "image_caption": "The analytical suite, before the morning run.",
+    "image_credit": "TerraNova Institute"
+  },
+  "add_heading": {
+    "level": 2,
+    "heading_text": "Where the work happens"
+  },
+  "add_list": {
+    "heading": "Rooms, roofs and stations",
+    "add_items_to_list": [
+      "**The trace lab** — clean benches, reference instruments and the mass spectrometers that carry most of our analytical work.",
+      "**The sensor bench** — calibration ovens, a humidity chamber and the lab's own reference loggers, kept within a degree of each other.",
+      "**Storglombreen station** — the alpine site, open May to September, with power and shelter for three field teams.",
+      "**Station Nord-03** — the coastal station, shared with the institute's marine group, a short walk from the mangrove plots.",
+      "**The green-roof array** — paired planted and bare roofs across the city, instrumented for the three-summer survey."
+    ]
+  },
+  "add_special_note": {
+    "colour": "info",
+    "heading": "Visiting",
+    "text": "The lab hosts visiting researchers and student groups. Write to {the lab|@contact} before planning a trip — bench space and station beds are limited in the field season."
+  },
+  "add_button": [
+    {
+      "label": "Contact the lab",
+      "style": "fill",
+      "link": "@contact"
+    },
+    {
+      "label": "Our labs & stations",
+      "style": "outline",
+      "link": "@labs"
+    }
+  ]
+}

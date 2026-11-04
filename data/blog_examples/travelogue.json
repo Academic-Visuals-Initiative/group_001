@@ -1,0 +1,88 @@
+{
+  "title": "Three stations, one week: a coastal travelogue",
+  "eyebrow": "Travelogue",
+  "intro": "A route rather than an argument — three field sites, the roads between them, and what each place measured.",
+  "kicker": "Road trip · 5 min read",
+  "choose_page_heading_alignment": "centered",
+
+  "add_content_to_page": [
+    {
+      "add_slideshow": {
+        "heading": "The route",
+        "images": [
+          {
+            "image_path": "assets/img/ph-10.jpg",
+            "image_alt": "Estuary at low tide",
+            "image_caption": "Stop 1: the estuary, at the lowest tide of the month."
+          },
+          {
+            "image_path": "assets/img/ph-14.jpg",
+            "image_alt": "A coastal road at dawn",
+            "image_caption": "The road south, before the traffic."
+          },
+          {
+            "image_path": "assets/img/ph-15.jpg",
+            "image_alt": "A field station building",
+            "image_caption": "Stop 3: the station, and the kettle."
+          }
+        ],
+        "rotation_time_milliseconds": 4500
+      }
+    },
+    {
+      "add_a_timeline": {
+        "heading": "Stops",
+        "items_of_the_timeline": [
+          {
+            "timeline_item_date": "Monday",
+            "timeline_item_title": "Estuary",
+            "timeline_item_text": "Two sediment cores, one lost to the tide. The mudflat changes shape faster than the maps."
+          },
+          {
+            "timeline_item_date": "Wednesday",
+            "timeline_item_title": "Mangrove nursery",
+            "timeline_item_text": "Seedling survey in flat heat. The nursery is younger than it looks."
+          },
+          {
+            "timeline_item_date": "Friday",
+            "timeline_item_title": "Coastal station",
+            "timeline_item_text": "Instrument service and a long conversation about which sensor to trust."
+          }
+        ]
+      }
+    },
+    {
+      "add_gallery": {
+        "heading": "Along the way",
+        "images": [
+          {
+            "image_path": "assets/img/ph-13.jpg",
+            "image_alt": "Sampling equipment on the shore",
+            "image_caption": "Between stops, a quick instrument check."
+          },
+          {
+            "image_path": "assets/img/ph-01.jpg",
+            "image_alt": "A river valley",
+            "image_caption": "Between stops, the road follows the water."
+          }
+        ],
+        "columns": 2
+      }
+    },
+    {
+      "add_paragraph": "A route is a poor sample. Each stop was chosen for access and instrument compatibility, not for representativeness, and the contrast between sites is a story rather than a result."
+    },
+    {
+      "add_special_note": {
+        "colour": "info",
+        "heading": "If you follow the route",
+        "text": "The estuary is accessible at low tide only; the nursery road is unsealed after rain. The station has power but no phone signal."
+      }
+    },
+    {
+      "add_tags": {
+        "tags": ["Travelogue", "Coastal", "Fieldwork"]
+      }
+    }
+  ]
+}

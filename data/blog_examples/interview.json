@@ -1,0 +1,86 @@
+{
+  "title": "“We kept the wrong measurement”: an interview with the field team",
+  "eyebrow": "Interview",
+  "intro": "Four questions about instruments, trust and the week the calibration drifted.",
+  "kicker": "Conversation · 9 min read",
+
+  "add_content_to_page": [
+    {
+      "add_image": {
+        "image_path": "assets/img/ph-07.jpg",
+        "image_alt": "Two researchers talking beside an instrument case",
+        "align": "right",
+        "image_caption": "Carlos Mendoza and Min-jun Park, after the morning calibration.",
+        "content_to_show_on_side_of_the_image_when_aligned": "The interview took place at the station bench, between the 07:00 calibration and the first run of the day. The recorder was left running while the instruments warmed up."
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "The first sign something was wrong"
+      }
+    },
+    {
+      "add_quote": {
+        "text": "The numbers were plausible. That is the dangerous part — a wrong measurement that looks right will survive three weeks of review.",
+        "author_of_the_quote": "Carlos Mendoza",
+        "position_of_the_author": "Field Systems Engineer"
+      }
+    },
+    {
+      "add_paragraph": "The discrepancy started at 3% and grew. It was easy to attribute to weather, then to a tired sensor, then to the reference itself. Each explanation bought another day."
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "What fixed it"
+      }
+    },
+    {
+      "add_paragraph": "A shade, a longer equilibration time and a temperature log. None of it was clever. All of it was cheap. The expensive part was admitting that the first week could not be used."
+    },
+    {
+      "add_quote": {
+        "text": "We did not lose a week of data. We learned what the first week was actually measuring.",
+        "author_of_the_quote": "Min-jun Park",
+        "position_of_the_author": "Research Lead"
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "Advice for the next campaign"
+      }
+    },
+    {
+      "add_list": {
+        "add_items_to_list": [
+          "Log the environment, not just the measurand.",
+          "Calibrate against a reference that shares the same conditions.",
+          "Write down the moment you stop trusting a series — with the time.",
+          "Keep the raw files, even when you know you will not use them."
+        ]
+      }
+    },
+    {
+      "add_people": {
+        "heading": "In this conversation",
+        "people": [
+          {
+            "name": "Carlos Mendoza",
+            "position": "Field Systems Engineer"
+          },
+          {
+            "name": "Min-jun Park",
+            "position": "Research Lead"
+          }
+        ]
+      }
+    },
+    {
+      "add_tags": {
+        "tags": ["Interview", "Instrumentation", "Methods"]
+      }
+    }
+  ]
+}

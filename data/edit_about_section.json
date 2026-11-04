@@ -1,0 +1,50 @@
+{
+  "about_section": {
+    "subheading": "Section 01 Subheading",
+    "heading": [
+      "This is the About Section header",
+      " of your lab website"
+    ],
+    "intro": "Add a small Introduction to your lab here. This is a good place to describe about your lab, location, values, etc .. You can also include a brief history of your lab and its mission. Also add or remove any of the images",
+    "images": [
+      {
+        "image_path": "main.gif",
+        "image_alt": "Underwater scene from the lab's field footage",
+        "image_caption": "Caption here",
+        "image_credit": "Credit here"
+      },
+      {
+        "image_path": "soil.jpg",
+        "image_alt": "Soil cores laid out after the autumn campaign",
+        "image_caption": "Caption here",
+        "image_credit": "Credit here"
+      },
+      {
+        "image_path": "mangrove.jpg",
+        "image_alt": "Mangrove roots along the coastal transect",
+        "image_caption": "Caption here",
+        "image_credit": "Credit here"
+      },
+      {
+        "image_path": "atmosphere.jpg",
+        "image_alt": "Atmospheric measurement rig at the field station",
+        "image_caption": "",
+        "image_credit": "Credit here"
+      },
+      {
+        "image_path": "polymers.jpg",
+        "image_alt": "Biodegradable polymer samples on the bench",
+        "image_caption": "Caption here",
+        "image_credit": ""
+      }
+    ],
+    "rotation_time_milliseconds": 5000,
+    "// aspect_ratio — any ratio works: aspect-[16/9], aspect-[9/16], aspect-[3/2], aspect-[4/3], aspect-[1/1] (or aspect-square), aspect-[4/5] (default), aspect-[3/4]; a bare ratio like 1:1 is also accepted": "",
+    "aspect_ratio": "aspect-[4/5]",
+    "zoom_on": false,
+    "button": {
+      "label": "Add a button label",
+      "link": "@about"
+    }
+  }
+}

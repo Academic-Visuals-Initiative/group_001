@@ -1,0 +1,76 @@
+{
+  "title": "How to read a calibration curve without fooling yourself",
+  "eyebrow": "Tutorial",
+  "intro": "A short, practical guide to the four checks that catch most calibration mistakes before they reach a dataset.",
+  "kicker": "Methods · 8 min read",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": "A calibration curve is a claim about the relationship between what an instrument reports and what is actually there. Most of the failures we see are not statistical — they are procedural, and they show up in the shape of the residuals."
+    },
+    {
+      "add_special_note": {
+        "colour": "info",
+        "heading": "Before you fit anything",
+        "text": "Plot the raw points. If the calibration standards were prepared in the wrong order, no fitting method will rescue them."
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "1. Check the blank"
+      }
+    },
+    {
+      "add_list": {
+        "add_items_to_list": [
+          "Run at least three blanks, not one.",
+          "A blank that drifts upward across the run usually means carry-over.",
+          "Subtract the blank mean, not the first blank."
+        ]
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "2. Look at the residuals, not R²"
+      }
+    },
+    {
+      "add_paragraph": "A high R² can hide a curve that is systematically wrong at the low end. Plot residual against concentration; a smile or a frown means the model is the wrong shape."
+    },
+    {
+      "add_equation": {
+        "heading": "The linear model you are checking",
+        "formatted_equation": "y = a + bx + e"
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "3. Test one independent standard"
+      }
+    },
+    {
+      "add_paragraph": "Prepare a standard your calibration does not include and predict it. That single number is worth more than any goodness-of-fit statistic."
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "4. Record the conditions"
+      }
+    },
+    {
+      "add_paragraph": "Temperature, humidity and the age of the standards belong beside the curve. When a series drifts three weeks later, these are the variables you will wish you had."
+    },
+    {
+      "add_button": [
+        {
+          "label": "Download the checklist",
+          "link": "@pages.dataset_release",
+          "style": "fill"
+        }
+      ]
+    }
+  ]
+}

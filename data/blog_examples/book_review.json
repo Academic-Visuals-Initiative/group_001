@@ -1,0 +1,61 @@
+{
+  "title": "Book review: The Catchment as an Archive",
+  "eyebrow": "Review",
+  "intro": "A new book argues that landscapes keep records — and that reading them is a skill we are quietly losing.",
+  "kicker": "Books · 4 min read",
+
+  "add_content_to_page": [
+    {
+      "add_image": {
+        "image_path": "assets/img/ph-03.jpg",
+        "image_alt": "A book open on a desk beside field notes",
+        "align": "left",
+        "image_caption": "The Catchment as an Archive, read beside a season of notebooks.",
+        "content_to_show_on_side_of_the_image_when_aligned": "The book is at its best when it stays close to the ground: a chapter on bank erosion, another on seed banks, a third on the strata of a single pasture. The argument is that these are not metaphors for memory but memory itself, written in material that can be read if you know the grammar."
+      }
+    },
+    {
+      "add_table": {
+        "heading": "At a glance",
+        "column_headers": ["Item", "Detail"],
+        "content_of_rows_separated_by_comma": [
+          "Title, The Catchment as an Archive",
+          "Author, H. Lindqvist",
+          "Publisher, Northfield Press",
+          "Pages, 288",
+          "Best for, Field scientists and historians of landscape"
+        ],
+        "align": ["left", "left"]
+      }
+    },
+    {
+      "add_quote": {
+        "text": "The strongest chapters are the least theoretical: a single core, read slowly, with the patience the author asks of everyone else.",
+        "author_of_the_quote": "Review",
+        "position_of_the_author": "CLEAR WATER LAB"
+      }
+    },
+    {
+      "add_focus_list": {
+        "heading": "Verdict",
+        "items_of_the_focus_list": [
+          "Excellent on method and close observation.",
+          "Thin on the policy implications it gestures at.",
+          "Worth the time for anyone who works in a catchment."
+        ]
+      }
+    },
+    {
+      "add_special_note": {
+        "colour": "green",
+        "heading": "Read this if",
+        "text": "You have ever stood in a river and wondered how much of what you are seeing is recent. The book gives you the vocabulary, not a formula."
+      }
+    },
+    {
+      "add_tags": {
+        "tags": ["Books", "Landscape", "Review"]
+      }
+    }
+  ]
+}

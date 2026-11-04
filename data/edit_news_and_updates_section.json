@@ -1,0 +1,38 @@
+{
+  "news_section": {
+    "subheading": "Section 05 Subheading",
+    "heading": "This is the News Section header",
+    "intro": "THis is a good place to add your recent news and updates. You can link to individual news, pages, or add a few lines about each news here. ",
+    "max_items": 3,
+    "updated_label": "Updated {date}",
+    "card_button_label": "Add card button label",
+    "button": {
+      "label": "Add a button label",
+      "link": "@updates"
+    },
+    "add_news_items": [
+      {
+        "individual_news_item_file_name": "new_paper_in_nature_climate_change_on_rhizosphere_carbon_retention"
+      },
+      {
+        "individual_news_item_file_name": "mangrove_restoration_pilot_expands_to_three_new_estuaries"
+      },
+      {
+        "individual_news_item_file_name": "open_science_sensor_dataset_released_2_456_tb"
+      },
+      {
+        "individual_news_item_file_name": "two_students"
+      },
+      {
+        "current_date": "2026-03-12",
+        "add_relevant_category_name": "Project",
+        "is_pinned": true,
+        "is_featured": true,
+        "item_title": "EU Horizon grant awarded for urban eco-corridor monitoring",
+        "item_introduction": "€2.4M over four years to deploy bio-sensing networks along three European river corridors.",
+        "image_path": "assets/images/news_and_updates/1.jpg",
+        "image_alt": "Two researchers checking a river sensor on a vegetated bank."
+      }
+    ]
+  }
+}

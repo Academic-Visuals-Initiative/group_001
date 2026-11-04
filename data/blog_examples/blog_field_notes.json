@@ -1,0 +1,101 @@
+{
+  "title": "Three weeks on the ice, and what the sensors missed",
+  "eyebrow": "Field notes",
+  "intro": "A diary from the spring campaign at the alpine station: what worked, what froze, and the two days we threw away.",
+  "kicker": "Storglombreen · April 2026",
+  "choose_page_heading_alignment": "centered",
+
+  "add_content_to_page": [
+    {
+      "add_paragraph": "We arrived on a Sunday with four cases of instruments and left three weeks later with two of them still working. This is the honest version of the campaign — including the part where the calibration drift made the first week's data unusable."
+    },
+    {
+      "add_image": {
+        "image_path": "assets/img/ph-03.jpg",
+        "image_alt": "The station building under a clear sky",
+        "image_caption": "The station at 06:40, before the first run.",
+        "image_credit": "CLEAR WATER LAB"
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "What we set out to do"
+      }
+    },
+    {
+      "add_paragraph": "The plan was simple: continuous particulate sampling at three heights, a daily snow pit, and a calibration check every morning. The first two happened. The third became the story."
+    },
+    {
+      "add_focus_list": {
+        "heading": "In numbers",
+        "items_of_the_focus_list": [
+          "21 days on site, 18 with usable weather.",
+          "3 sampling heights, 2 instruments each.",
+          "2 days of data discarded after calibration drift.",
+          "1 sensor lost to a fox."
+        ]
+      }
+    },
+    {
+      "add_gallery": {
+        "heading": "From the campaign",
+        "images": [
+          {
+            "image_path": "assets/img/ph-04.png",
+            "image_alt": "Instruments set up on the snow",
+            "image_caption": "The upper sampling mast on day two."
+          },
+          {
+            "image_path": "assets/img/ph-10.jpg",
+            "image_alt": "A snow pit with marked layers",
+            "image_caption": "The daily snow pit, layers marked for density."
+          },
+          {
+            "image_path": "assets/img/ph-14.jpg",
+            "image_alt": "The station at dusk",
+            "image_caption": "Last light, and the generator still running."
+          }
+        ],
+        "columns": 3
+      }
+    },
+    {
+      "add_heading": {
+        "level": 2,
+        "heading_text": "The calibration problem"
+      }
+    },
+    {
+      "add_paragraph": "By day four the reference logger and the field units disagreed by 7%. We spent a day chasing a loose connector, found nothing, and eventually traced it to the housing warming faster than the reference. The fix was a shade and a longer equilibration time. The cost was the first week's particulate series.\n\nWe kept the raw files. They are not wrong, they are just not comparable, and that distinction matters more than it sounds."
+    },
+    {
+      "add_quote": {
+        "text": "The instrument was fine. The instrument in a box in the sun was not.",
+        "author_of_the_quote": "Carlos Mendoza",
+        "position_of_the_author": "Field Systems Engineer"
+      }
+    },
+    {
+      "add_special_note": {
+        "colour": "dark",
+        "heading": "What we would change",
+        "text": "Two things: shade the housings from the first day, and log the internal temperature alongside the measurement. Both are now standard in the field kit."
+      }
+    },
+    {
+      "add_tags": {
+        "tags": ["Fieldwork", "Alpine", "Instrumentation", "Methods"]
+      }
+    },
+    {
+      "add_button": [
+        {
+          "label": "Read the station guide",
+          "link": "@labs",
+          "style": "outline"
+        }
+      ]
+    }
+  ]
+}

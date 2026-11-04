@@ -1,0 +1,71 @@
+{
+  "contact_section": {
+    "subheading": "Section 08 subheading",
+    "heading": "Contact Section header",
+    "intro": "Add a small message here. You can replace contact form with a image, or a map.",
+    "cards": [
+      {
+        "card_subheading": "Card subheading",
+        "card_heading": "Card heading",
+        "// card_text_line_N_label — the small label above each line; set \"\" to hide it": "",
+        "card_text_line_1_label": "line 1 label",
+        "card_text_line_2_label": "line 2 label",
+        "card_text_line_3_label": "line 3 label",
+        "card_text_line_4_label": "line 4 label",
+        "card_text_line_1": "Text line 1",
+        "card_text_line_2": "Text line 2",
+        "card_text_line_3": "Text line 3",
+        "card_text_line_4": "Text line 4",
+        "add_icon_name_or_path_to_line_1_icon": "location",
+        "add_icon_name_or_path_to_line_2_icon": "phone_left",
+        "add_icon_name_or_path_to_line_3_icon": "mail",
+        "add_icon_name_or_path_to_line_4_icon": "clock"
+      }
+    ],
+    "// panel — choose what fills the right column: \"form\" (contact form), \"map\" (embedded map) or \"image\" (photo)": "",
+    "panel": "map",
+    "form": {
+      "contact_us_form_title": "Send Us a Message",
+      "contact_us_form_subtitle": "For collaborators, journals, students and partners.",
+      "edit_input_fields_of_contact_form": {
+        "edit_name_field": {
+          "edit_name_field_label": "Full Name",
+          "name_field_place_holder_text": "Prof. / Dr. / Researcher"
+        },
+        "edit_email_field": {
+          "edit_email_field_label": "Email Address",
+          "email_field_place_holder_text": "name@university.edu"
+        },
+        "edit_subject_field": {
+          "edit_subject_field_label": "Subject",
+          "subject_field_place_holder_text": "e.g. Research collaboration"
+        },
+        "edit_message_field": {
+          "edit_message_field_label": "Message",
+          "message_field_place_holder_text": "Outline your research parameters, site visit or sample requests…"
+        }
+      },
+      "add_special_note": "Your details stay within the lab - we never share contact information.",
+      "button_label": "Send Enquiry",
+      "message_to_show_when_sent_was_successful": "Thanks - your enquiry has been sent. We'll reply within 2 business days.",
+      "message_to_show_when_sent_was_unsuccessful": "Something went wrong - please email us instead."
+    },
+    "emailjs": {
+      "service_id": "service_oz6dham",
+      "template_id": "template_642vvza",
+      "public_key": "XvEyqyn9armH2UceH"
+    },
+    "map": {
+      "embed": "embed code for map",
+      "map_title": "Map title",
+      "link": "https://www.google.com/maps?q=Nordic+Science+Park%2C+Oslo%2C+Norway",
+      "edit_label_of_open_map_link": "Open in Maps"
+    },
+    "image": {
+      "image_path": "1.jpg",
+      "image_alt": "",
+      "add_image_caption": "Add cption here",
+      "add_image_credit": "Credit here"
+    }
+  }
+}
